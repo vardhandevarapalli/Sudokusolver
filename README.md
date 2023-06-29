@@ -2,6 +2,9 @@
 
 Welcome to the Sudoku Solver repository! This repository contains a C++ program that efficiently solves Sudoku puzzles using a backtracking algorithm. With its interactive input and visualization features, this program provides a user-friendly experience for solving Sudoku puzzles.
 
+- The source code for the Sudoku Solver can be found `sudokusolver.cpp` file in the folder `sudokusolver` of the repository.
+- Some unsolved sudoku puzzles can be found in the `unsolvedsudokuinputs.txt` file in the same folder mentioned above in the format of the input for the
+  source code.
 
 ## Features
 
